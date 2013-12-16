@@ -33,7 +33,7 @@ Basic Usage
 -----------
 
 ```js
-var balanced = require('balanced');
+var balanced = require('balanced-official');
 
 var api = new balanced({
     marketplace_uri: "/v1/marketplaces/:marketplace-id",
